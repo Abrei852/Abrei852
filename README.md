@@ -5,7 +5,6 @@
 - 🌱 I’m currently learning React & NodeJs
 - 💜 [vuejs][vuejs],[react][react]
 
-🏡 [website][website] **|** 
 👔 [linkedin][linkedin]
 
 [vuejs]:https://vuejs.org
