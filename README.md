@@ -6,7 +6,7 @@
 - 💜 [vuejs][vuejs],[react][react]
 
 🏡 [website][website] **|** 
-👔 [linkedin][linkedin] **|**
+👔 [linkedin][linkedin]
 
 [vuejs]:https://vuejs.org
 [react]: http://reactjs.org
@@ -23,4 +23,4 @@
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=abrei852&hide_border=true&show_icons=true&count_private=true&langs_count=10"/>
 </a>
 
---->
+---
