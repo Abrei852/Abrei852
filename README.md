@@ -17,10 +17,10 @@
 <h1 align="center">GitHub statistics<h1>
 
 <a href="https://github.com/Abrei852">
-   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=abrei852"/>
+   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=abrei852&langs_count=10"/>
 </a>
 <a href="https://github.com/abrei852">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=abrei852"/>
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=abrei852&count_private=true&show_icons=true&include_all_commits=true"/>
 </a>
 
 ---
