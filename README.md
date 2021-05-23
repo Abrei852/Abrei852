@@ -1,7 +1,7 @@
 ### Hi there 👋 I'm Abraham
 ---
 
-- 🔭 I’m currently working on a Quasar project
+- 🔭 I’m currently working on a Quasar and React + NodeJS project
 - 🌱 I’m currently learning React & NodeJs
 - 💜 [Vuejs][vuejs], [React][react], [C#][csharp]
 
