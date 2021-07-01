@@ -2,7 +2,7 @@
 ---
 
 - 🔭 I’m currently working on a Flutter Application
-- 🌱 I’m currently learning React & NodeJs
+- 🌱 I’m currently learning Flutter
 - 💜 [Vuejs][vuejs], [React][react], [C#][csharp]
 
 👔 [LinkedIn][linkedin]
