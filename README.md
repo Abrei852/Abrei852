@@ -1,8 +1,8 @@
 ### Hi there 👋 I'm Abraham
 ---
 
-- 🔭 I’m currently working on a Flutter Application
-- 🌱 I’m currently learning Flutter & Dart
+- 🔭 I’m currently working on a ReactJS Project
+- 🌱 I’m currently expanding my knowledge in ReactJS
 - 💜 [Vuejs][vuejs], [React][react], [C#][csharp]
 
 👔 [LinkedIn][linkedin]
