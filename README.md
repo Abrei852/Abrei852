@@ -14,7 +14,7 @@
 
 ---
 
-<a href="https://github.com/Abrei852">
+<a href="https://github.com/abrei852">
    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=abrei852&langs_count=10"/>
 </a>
 
