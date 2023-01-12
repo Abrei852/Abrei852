@@ -13,8 +13,5 @@
 [linkedin]: https://www.linkedin.com/in/abraham-eishow/
 
 ---
-
-<a href="https://github.com/abrei852">
-   <img align="center" src="(https://github-readme-stats.vercel.app/api?username=abrei852)"/>
-</a>
+(https://github-readme-stats.vercel.app/api?username=abrei852)
 
