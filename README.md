@@ -4,7 +4,7 @@
 - 🔭 I’m currently working on my portfolio page!
 - 🌱 I’m currently expanding my knowledge in ReactJS
 - 💜 [Vuejs][vuejs], [React][react], [C#][csharp], [Kotlin][kotlin]
-- 👔 Do you want to know more about me? Visit me at [LinkedIn][linkedin]
+- 👔 [LinkedIn][linkedin]
 
 
 
