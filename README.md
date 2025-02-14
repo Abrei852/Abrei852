@@ -1,8 +1,8 @@
 ### Hi there 👋 I'm Abraham!
 ---
 
-- 🔭 I’m currently working on my portfolio page!
-- 🌱 I’m currently expanding my knowledge in ReactJS
+- 🔭 I’m currently working on a mobile app!
+- 🌱 I’m currently expanding my knowledge in Kotlin MVVM
 - 💜 [Vuejs][vuejs], [React][react], [C#][csharp], [Kotlin][kotlin]
 - 👔 [LinkedIn][linkedin]
 
